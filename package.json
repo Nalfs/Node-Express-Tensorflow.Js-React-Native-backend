@@ -1,0 +1,24 @@
+{
+  "name": "react-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^0.3.0",
+    "canvas": "^2.3.1",
+    "code-template-generator": "^1.1.14",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "raw-body": "^2.3.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/node": "^7.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
